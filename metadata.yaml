@@ -1,0 +1,33 @@
+_repo: Women-artists-in-all-ages-and-countries_69897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellet, E. F. (Elizabeth Fries)
+    aliases:
+    - Ellet, Elizabeth Fries Lummis
+    - Ellet, Elizabeth F. (Elizabeth Fries)
+    - Lummis, Elizabeth Fries
+    birthdate: 1818
+    deathdate: 1877
+    gutenberg_agent_id: '45321'
+    url: http://www.gutenberg.org/2009/agents/45321
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_F._Ellet
+description: ''
+gutenberg_issued: '2023-01-29'
+identifiers:
+  gutenberg: '69897'
+language: en
+pgterms:marc904: https://archive.org/details/womenartistsinal00ellerich/page/n5/mode/2up
+pgterms:marc905: 20220807164919ellet
+pgterms:marc906: '1859'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Harper and Brothers,1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Women artists in all ages and countries
+url: http://www.gutenberg.org/ebooks/69897
